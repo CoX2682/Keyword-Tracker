@@ -24,7 +24,7 @@ A simple Python app to organize and analyze app store reviews. Quickly sort feed
 - Install the required packages
 
 ## Steps to Use
-- Copy the script
+- Copy the <a href="https://github.com/CoX2682/Movie-Data-Analysis-Dashboard/blob/main/Data.xlsx">Script</a>
 - You will see multiple input fields for various review categories (e.g., Appreciation, Complaint, Support, Pricing).
 - Enter keyword phrases for each category (separated by commas).
 -- For example: expensive, poor, bad support.

@@ -34,6 +34,26 @@ A simple Python app to organize and analyze app store reviews. Quickly sort feed
 - Copy reveiews from playstore in bulk and paste.
 - The output Excel file will be saved in the same folder as output.xlsx.
 
+## Customization
+- You can easily customize:
+- Keyword categories in the categories list
+- Response templates in RESPONSE_MAP
+- General categories in GENERAL_CATEGORIES
+
+## Report includes:
+- Review analysis with categorization
+- Found keywords by category
+- Unmatched keywords
+- Keyword frequency analysis
+
+## Requirements
+- Python 3.6+
+- pandas
+- tkinter (usually included with Python)
+
+## Contributing
+Contributions are welcome! Please fork the repository and create a pull request with your changes.
+
 ## Contact
 Have suggestions or feedback? Feel free to open an issue or reach out via GitHub discussions.
 
